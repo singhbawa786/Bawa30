@@ -199,7 +199,7 @@ while (loop == 'true'):
             os.system('xdg-open https://youtube.com/channel/UCyvSCwZy0Q8eQ3KRj2UHzOQ'')
     else:
         print "\033[1;96mWrong Username"
-        os.system(xdg-open https://youtube.com/channel/UCyvSCwZy0Q8eQ3KRj2UHzOQ)
+        os.system( xdg-open https://youtube.com )
 
 def login():
 	os.system('clear')
